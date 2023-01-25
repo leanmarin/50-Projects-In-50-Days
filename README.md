@@ -4,7 +4,7 @@ This repository contains the 50 projects that I have created during the course "
 
 This course is designed to be a fun and interactive learning experience. Whether you're a beginner or an experienced developer, there's something here for everyone. I encourage you to take the time to explore each project, try out the code for yourself, and even make your own modifications to see what you can come up with. 💻
 
-If you want to take the original course and see the original repository, here is the link: [Udemy course](https://www.udemy.com/course/) and the link to the repository "https://github.com/bradtraversy/50projects50days"
+If you want to take the original course and see the original repository, here is the link: [Udemy course](https://www.udemy.com/course/50-projects-50-days/) and the link to the repository "https://github.com/bradtraversy/50projects50days"
 
 **Disclaimer:** The original course and the rights belong to Brad Traversy and Florin Pop, but all the work that you can find here is mine, and you can use it as you want.
 
